@@ -1,0 +1,250 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://images.peabody.yale.edu/data/object/c/f1/cf11e2f0-5acd-4e45-8fe2-155b48d2555f.json",
+  "_last_mod_local": "2024-05-14T12:42:27Z",
+  "type": "HumanMadeObject",
+  "_label": "Meteorite Waka [H6]",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300266159",
+      "type": "Type",
+      "_label": "Meteorites"
+    },
+    {
+      "id": "http://vocab.getty.edu/aat/300010331",
+      "type": "Type",
+      "_label": "three-dimensional"
+    },
+    {
+      "id": "https://images.peabody.yale.edu/data/taxon/b/5d/b5dfab5b-e8f1-4ede-85ae-bb3eef9d5d51.json",
+      "type": "Type",
+      "_label": "Meteorite",
+      "classified_as": [
+        {
+          "id": "http://www.wikidata.org/entity/Q34740",
+          "type": "Type",
+          "_label": "Genus"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "Meteorite"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404620",
+          "type": "Type",
+          "_label": "YPM External Catalog Number"
+        }
+      ],
+      "content": "YPM MIN 202107"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "YPM Internal Catalog Number"
+        }
+      ],
+      "content": "MIN.202107"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "YPM Accession Number"
+        }
+      ],
+      "content": "YPM.12523"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435704",
+          "type": "Type",
+          "_label": "YPM EMu IRN"
+        }
+      ],
+      "content": "ypm:ecatalogue:irn:2482972"
+    }
+  ],
+  "dimension": [
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300241583",
+          "type": "Type",
+          "_label": "Number of Parts"
+        }
+      ],
+      "value": 1,
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300055665",
+        "type": "Type",
+        "_label": "Numbers"
+      }
+    },
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300056240",
+          "type": "Type",
+          "_label": "weight"
+        }
+      ],
+      "value": 30.26,
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379225",
+        "type": "MeasurementUnit",
+        "_label": "g"
+      }
+    }
+  ],
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300133046",
+          "type": "Type",
+          "_label": "Access Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "<span class=\"lux_data\"><a href=\"https://peabody.yale.edu/explore/collections\" target=\"_blank\">in collection</a></span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025883",
+          "type": "Type",
+          "_label": "Visitors' Statement"
+        }
+      ],
+      "content": "<span class=\"lux_data\"><a href=\"https://peabody.yale.edu/visit\" target=\"_blank\">Plan your visit to the Yale Peabody Museum</a></span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300027200",
+          "type": "Type",
+          "_label": "Note"
+        }
+      ],
+      "content": "Preservation Notes: meteorite"
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300027200",
+          "type": "Type",
+          "_label": "Note"
+        }
+      ],
+      "content": "<span class=\"lux_data\">Latinized Name Hierarchy: Rock</span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435438",
+          "type": "Type",
+          "_label": "Provenance"
+        }
+      ],
+      "content": "<span class=\"lux_data\">Accession YPM.12523, rcvd. via donation, 2017</span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435430",
+          "type": "Type",
+          "_label": "Dimension Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "weight 30.26 grams"
+    }
+  ],
+  "subject_of": [
+    {
+      "type": "LinguisticObject",
+      "_label": "View this record on the Yale Peabody Museum website",
+      "digitally_carried_by": [
+        {
+          "type": "DigitalObject",
+          "_label": "View this record on the Yale Peabody Museum website",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300264578",
+              "type": "Type",
+              "_label": "Web Page"
+            }
+          ],
+          "identified_by": [
+            {
+              "type": "Name",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300404670",
+                  "type": "Type",
+                  "_label": "Primary Name"
+                }
+              ],
+              "content": "View this record on the Yale Peabody Museum website"
+            }
+          ],
+          "format": "text/html",
+          "access_point": [
+            {
+              "id": "https://collections.peabody.yale.edu/search/Record/YPM-MIN-202107",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://images.peabody.yale.edu/data/sets/base/minset.json",
+      "type": "Set",
+      "_label": "Mineralogy & Meteoritics Collection, Yale Peabody Museum"
+    }
+  ]
+}

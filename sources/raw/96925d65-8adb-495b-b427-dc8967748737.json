@@ -1,0 +1,463 @@
+{
+  "id": "https://lux-byunit2.collections.yale.edu/data/object/96925d65-8adb-495b-b427-dc8967748737",
+  "type": "HumanMadeObject",
+  "_label": "Meteorite Waka [H6]",
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "dimension": [
+    {
+      "type": "Dimension",
+      "unit": {
+        "id": "https://lux-byunit2.collections.yale.edu/data/concept/b0ac44c2-83ba-4eae-9a01-fcfa547dd5b0",
+        "type": "Type",
+        "_label": "Numbers",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055665",
+            "type": "Type",
+            "_label": "Numbers"
+          }
+        ]
+      },
+      "value": 1,
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/861dda5d-03c4-44d6-a2a0-d699a3c7a791",
+          "type": "Type",
+          "_label": "Number of Parts",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300241583",
+              "type": "Type",
+              "_label": "Number of Parts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Dimension",
+      "unit": {
+        "id": "https://lux-byunit2.collections.yale.edu/data/concept/44a37070-c554-4924-8dba-a8b4ae8e8fbf",
+        "type": "MeasurementUnit",
+        "_label": "g",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/aat/300379225",
+            "type": "MeasurementUnit",
+            "_label": "g"
+          }
+        ]
+      },
+      "value": 30.26,
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/12344771-6018-4419-9af8-ce5b03634bd8",
+          "type": "Type",
+          "_label": "weight",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300056240",
+              "type": "Type",
+              "_label": "weight"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://lux-byunit2.collections.yale.edu/data/set/3e12ac07-30b7-44cd-8b09-c5d9e4ed1562",
+      "type": "Set",
+      "_label": "Mineralogy & Meteoritics Collection, Yale Peabody Museum"
+    }
+  ],
+  "equivalent": [
+    {
+      "id": "https://images.peabody.yale.edu/data/object/c/f1/cf11e2f0-5acd-4e45-8fe2-155b48d2555f.json",
+      "type": "HumanMadeObject",
+      "_label": "Meteorite Waka [H6]"
+    }
+  ],
+  "subject_of": [
+    {
+      "type": "LinguisticObject",
+      "_label": "View this record on the Yale Peabody Museum website",
+      "digitally_carried_by": [
+        {
+          "type": "DigitalObject",
+          "_label": "View this record on the Yale Peabody Museum website",
+          "format": "text/html",
+          "access_point": [
+            {
+              "id": "https://collections.peabody.yale.edu/search/Record/YPM-MIN-202107",
+              "type": "DigitalObject"
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "https://lux-byunit2.collections.yale.edu/data/concept/2eca07bd-be42-4ef5-9ec5-87c1bbfe639d",
+              "type": "Type",
+              "_label": "Web Page",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300264578",
+                  "type": "Type",
+                  "_label": "Web Page"
+                }
+              ]
+            }
+          ],
+          "identified_by": [
+            {
+              "type": "Name",
+              "content": "View this record on the Yale Peabody Museum website",
+              "classified_as": [
+                {
+                  "id": "https://lux-byunit2.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+                  "type": "Type",
+                  "_label": "Primary Name",
+                  "equivalent": [
+                    {
+                      "id": "http://vocab.getty.edu/aat/300404670",
+                      "type": "Type",
+                      "_label": "Primary Name"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "https://lux-byunit2.collections.yale.edu/data/concept/01a31771-0032-4afd-98ea-acfc7cdff503",
+      "type": "Type",
+      "_label": "Meteorites",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266159",
+          "type": "Type",
+          "_label": "Meteorites"
+        }
+      ]
+    },
+    {
+      "id": "https://lux-byunit2.collections.yale.edu/data/concept/85700e1d-a04f-4a05-a548-aaa15e71b745",
+      "type": "Type",
+      "_label": "three-dimensional",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010331",
+          "type": "Type",
+          "_label": "three-dimensional"
+        }
+      ]
+    },
+    {
+      "id": "https://lux-byunit2.collections.yale.edu/data/concept/58da15c2-a135-421f-beb5-84554b9786ab",
+      "type": "Type",
+      "_label": "Meteorite",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/bb586d0b-8f87-498b-95d4-19818925e2da",
+          "type": "Type",
+          "_label": "Genus",
+          "equivalent": [
+            {
+              "id": "http://www.wikidata.org/entity/Q34740",
+              "type": "Type",
+              "_label": "Genus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lux-byunit2.collections.yale.edu/data/concept/b34ad31c-4a2f-4cef-aee3-ae8d824e42a2",
+      "type": "Type",
+      "_label": "Collection Item",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404024",
+          "type": "Type",
+          "_label": "Collection Item"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "content": "Meteorite",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+          "type": "Type",
+          "_label": "Primary Name",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "_label": "Primary Name"
+            }
+          ]
+        },
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/ab99d278-9323-4d84-8e97-1846058fc587",
+          "type": "Type",
+          "_label": "Sort Name",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300451544",
+              "type": "Type",
+              "_label": "Final: Sort Title"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "content": "YPM MIN 202107",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/a34c7953-e2b0-4687-be58-f2ce09ffe490",
+          "type": "Type",
+          "_label": "YPM External Catalog Number",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404620",
+              "type": "Type",
+              "_label": "YPM External Catalog Number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "content": "MIN.202107",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/a1922667-5c32-4181-8897-3e71ecea0ce8",
+          "type": "Type",
+          "_label": "YPM Internal Catalog Number",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404621",
+              "type": "Type",
+              "_label": "YPM Internal Catalog Number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "content": "YPM.12523",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/3d9696be-0b9a-4a3d-b380-7584fbf96ac7",
+          "type": "Type",
+          "_label": "YPM Accession Number",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312355",
+              "type": "Type",
+              "_label": "YPM Accession Number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "content": "ypm:ecatalogue:irn:2482972",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/89630361-18a3-4c4b-bcd7-16894d95defd",
+          "type": "Type",
+          "_label": "YPM EMu IRN",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435704",
+              "type": "Type",
+              "_label": "YPM EMu IRN"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject",
+      "content": "in collection",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/03f4eb19-0611-4f31-8e09-fc111c52f898",
+          "type": "Type",
+          "_label": "Access Statement",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300133046",
+              "type": "Type",
+              "_label": "Access Statement"
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "https://lux-byunit2.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+              "type": "Type",
+              "_label": "Brief Text",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "Brief Text"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "_content_html": "<span class=\"lux_data\"><a href=\"https://peabody.yale.edu/explore/collections\" target=\"_blank\">in collection</a></span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Plan your visit to the Yale Peabody Museum",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/d97f2e4a-1549-4c4b-9a27-bcf41a2b4972",
+          "type": "Type",
+          "_label": "Visitors' Statement",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300025883",
+              "type": "Type",
+              "_label": "Visitors' Statement"
+            }
+          ]
+        }
+      ],
+      "_content_html": "<span class=\"lux_data\"><a href=\"https://peabody.yale.edu/visit\" target=\"_blank\">Plan your visit to the Yale Peabody Museum</a></span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Preservation Notes: meteorite",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/acc79f08-f8f7-4f7c-8179-1c8f03aa9020",
+          "type": "Type",
+          "_label": "Note",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300027200",
+              "type": "Type",
+              "_label": "Note"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Latinized Name Hierarchy: Rock",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/acc79f08-f8f7-4f7c-8179-1c8f03aa9020",
+          "type": "Type",
+          "_label": "Note",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300027200",
+              "type": "Type",
+              "_label": "Note"
+            }
+          ]
+        }
+      ],
+      "_content_html": "<span class=\"lux_data\">Latinized Name Hierarchy: Rock</span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Accession YPM.12523, rcvd. via donation, 2017",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/dd8b8c75-3f4b-4071-a231-161ae556e572",
+          "type": "Type",
+          "_label": "Provenance",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435438",
+              "type": "Type",
+              "_label": "Provenance"
+            }
+          ]
+        }
+      ],
+      "_content_html": "<span class=\"lux_data\">Accession YPM.12523, rcvd. via donation, 2017</span>"
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "weight 30.26 grams",
+      "classified_as": [
+        {
+          "id": "https://lux-byunit2.collections.yale.edu/data/concept/53922f57-dab5-43c5-a527-fc20a63fe128",
+          "type": "Type",
+          "_label": "Dimension Statement",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435430",
+              "type": "Type",
+              "_label": "Dimension Statement"
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "https://lux-byunit2.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+              "type": "Type",
+              "_label": "Brief Text",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "Brief Text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_links": {
+    "curies": [
+      {
+        "name": "la",
+        "href": "https://linked.art/api/1.0/rels/{rel}",
+        "templated": true
+      },
+      {
+        "name": "lux",
+        "href": "https://lux-byunit2.collections.yale.edu/api/rels/{rel}",
+        "templated": true
+      }
+    ],
+    "self": {
+      "href": "https://lux-byunit2.collections.yale.edu/data/object/96925d65-8adb-495b-b427-dc8967748737"
+    },
+    "lux:itemDepartment": {
+      "href": "https://lux-byunit2.collections.yale.edu/api/search/agent?q=%7B%22curated%22%3A%7B%22containingItem%22%3A%7B%22id%22%3A%22https%3A%2F%2Flux.collections.yale.edu%2Fdata%2Fobject%2F96925d65-8adb-495b-b427-dc8967748737%22%7D%7D%7D",
+      "_estimate": 1
+    },
+    "lux:itemUnit": {
+      "href": "https://lux-byunit2.collections.yale.edu/api/facets/item?q=%7B%22id%22%3A%22https%3A%2F%2Flux.collections.yale.edu%2Fdata%2Fobject%2F96925d65-8adb-495b-b427-dc8967748737%22%7D&name=responsibleUnits",
+      "_estimate": 1
+    }
+  }
+}

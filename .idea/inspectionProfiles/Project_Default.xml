@@ -1,0 +1,100 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="agate" />
+          <option value="agate-dbf" />
+          <option value="agate-excel" />
+          <option value="agate-sql" />
+          <option value="argcomplete" />
+          <option value="arrow" />
+          <option value="attrs" />
+          <option value="babel" />
+          <option value="bar" />
+          <option value="boto3" />
+          <option value="botocore" />
+          <option value="cached-property" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="chardet" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="csvkit" />
+          <option value="csvstat" />
+          <option value="dataflows-tabulator" />
+          <option value="dbfread" />
+          <option value="et_xmlfile" />
+          <option value="frozendict" />
+          <option value="greek" />
+          <option value="greenlet" />
+          <option value="html5lib" />
+          <option value="idna" />
+          <option value="ijson" />
+          <option value="isodate" />
+          <option value="Jinja2" />
+          <option value="jinja2-time" />
+          <option value="jmespath" />
+          <option value="json_extract" />
+          <option value="jsonlines" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="leather" />
+          <option value="linear-tsv" />
+          <option value="lxml" />
+          <option value="MarkupSafe" />
+          <option value="numpy" />
+          <option value="olefile" />
+          <option value="ontospy" />
+          <option value="openpyxl" />
+          <option value="pandas" />
+          <option value="parsedatetime" />
+          <option value="pathlib" />
+          <option value="psutil" />
+          <option value="py-markdown-table" />
+          <option value="pyfiglet" />
+          <option value="Pygments" />
+          <option value="PyLD" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="python-slugify" />
+          <option value="pytimeparse" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="qlever" />
+          <option value="rdflib" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="requests-sse" />
+          <option value="rfc3986" />
+          <option value="rpds-py" />
+          <option value="s3transfer" />
+          <option value="six" />
+          <option value="SPARQLWrapper" />
+          <option value="SQLAlchemy" />
+          <option value="tableschema" />
+          <option value="tabulate" />
+          <option value="termcolor" />
+          <option value="text-unidecode" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="unicodecsv" />
+          <option value="urllib3" />
+          <option value="webencodings" />
+          <option value="wheel" />
+          <option value="xlrd" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
